@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:51()>
     a skos:Collection ;
@@ -23,7 +22,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yerevan"@eng-Latn ,
         "Երևան"@hye-Armn ,
         "Ереван"@rus-Cyrl ;
-    wdata:q7200235 "AM011" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -84,7 +82,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yeghegnadzor"@eng-Latn ,
         "Եղեգնաձոր"@hye-Armn ,
         "Егегнадзор"@rus-Cyrl ;
-    wdata:q7200235 "AM101" ;
 .
 
 <urn:mdciii:1603:16:51:2:102>
@@ -96,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vayk"@eng-Latn ,
         "Վայք"@hye-Armn ,
         "Вайк"@rus-Cyrl ;
-    wdata:q7200235 "AM102" ;
 .
 
 <urn:mdciii:1603:16:51:2:111>
@@ -108,7 +104,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Idjevan"@eng-Latn ,
         "Իջևան"@hye-Armn ,
         "Иджеван"@rus-Cyrl ;
-    wdata:q7200235 "AM111" ;
 .
 
 <urn:mdciii:1603:16:51:2:112>
@@ -120,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Noyemberyan"@eng-Latn ,
         "Նոյեմբերյան"@hye-Armn ,
         "Ноемберян"@rus-Cyrl ;
-    wdata:q7200235 "AM112" ;
 .
 
 <urn:mdciii:1603:16:51:2:113>
@@ -132,7 +126,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tavush"@eng-Latn ,
         "Տավուշ"@hye-Armn ,
         "Тавуш"@rus-Cyrl ;
-    wdata:q7200235 "AM113" ;
 .
 
 <urn:mdciii:1603:16:51:2:114>
@@ -144,7 +137,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Dilidjan"@eng-Latn ,
         "Դիլիջան"@hye-Armn ,
         "Дилиджан"@rus-Cyrl ;
-    wdata:q7200235 "AM114" ;
 .
 
 <urn:mdciii:1603:16:51:2:21>
@@ -156,7 +148,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ashtarak"@eng-Latn ,
         "Աշտարակ"@hye-Armn ,
         "Аштарак"@rus-Cyrl ;
-    wdata:q7200235 "AM021" ;
 .
 
 <urn:mdciii:1603:16:51:2:22>
@@ -168,7 +159,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aparan"@eng-Latn ,
         "Ապարան"@hye-Armn ,
         "Апаран"@rus-Cyrl ;
-    wdata:q7200235 "AM022" ;
 .
 
 <urn:mdciii:1603:16:51:2:23>
@@ -180,7 +170,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aragats"@eng-Latn ,
         "Արագած"@hye-Armn ,
         "Арагац"@rus-Cyrl ;
-    wdata:q7200235 "AM023" ;
 .
 
 <urn:mdciii:1603:16:51:2:24>
@@ -192,7 +181,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Talin"@eng-Latn ,
         "Թալին"@hye-Armn ,
         "Талин"@rus-Cyrl ;
-    wdata:q7200235 "AM024" ;
 .
 
 <urn:mdciii:1603:16:51:2:31>
@@ -204,7 +192,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ararat"@eng-Latn ,
         "Արարատ"@hye-Armn ,
         "Арарат"@rus-Cyrl ;
-    wdata:q7200235 "AM031" ;
 .
 
 <urn:mdciii:1603:16:51:2:32>
@@ -216,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Artashat"@eng-Latn ,
         "Արտաշատ"@hye-Armn ,
         "Арташат"@rus-Cyrl ;
-    wdata:q7200235 "AM032" ;
 .
 
 <urn:mdciii:1603:16:51:2:33>
@@ -228,7 +214,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Masis"@eng-Latn ,
         "Մասիս"@hye-Armn ,
         "Масис"@rus-Cyrl ;
-    wdata:q7200235 "AM033" ;
 .
 
 <urn:mdciii:1603:16:51:2:41>
@@ -240,7 +225,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Armavir"@eng-Latn ,
         "Արմավիր"@hye-Armn ,
         "Армавир"@rus-Cyrl ;
-    wdata:q7200235 "AM041" ;
 .
 
 <urn:mdciii:1603:16:51:2:42>
@@ -252,7 +236,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Baghramyan"@eng-Latn ,
         "Բաղրամյան"@hye-Armn ,
         "Баграмян"@rus-Cyrl ;
-    wdata:q7200235 "AM042" ;
 .
 
 <urn:mdciii:1603:16:51:2:43>
@@ -264,7 +247,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vagharshapat"@eng-Latn ,
         "Վաղարշապատ"@hye-Armn ,
         "Вагаршапат"@rus-Cyrl ;
-    wdata:q7200235 "AM043" ;
 .
 
 <urn:mdciii:1603:16:51:2:51>
@@ -276,7 +258,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gavar"@eng-Latn ,
         "Գավառ"@hye-Armn ,
         "Гавар"@rus-Cyrl ;
-    wdata:q7200235 "AM051" ;
 .
 
 <urn:mdciii:1603:16:51:2:52>
@@ -288,7 +269,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Karmir"@eng-Latn ,
         "Կարմիր"@hye-Armn ,
         "Кармир"@rus-Cyrl ;
-    wdata:q7200235 "AM052" ;
 .
 
 <urn:mdciii:1603:16:51:2:53>
@@ -300,7 +280,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Martuni"@eng-Latn ,
         "Մարտունի"@hye-Armn ,
         "Мартуни"@rus-Cyrl ;
-    wdata:q7200235 "AM053" ;
 .
 
 <urn:mdciii:1603:16:51:2:54>
@@ -312,7 +291,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sevan"@eng-Latn ,
         "Սևան"@hye-Armn ,
         "Севан"@rus-Cyrl ;
-    wdata:q7200235 "AM054" ;
 .
 
 <urn:mdciii:1603:16:51:2:55>
@@ -324,7 +302,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vardenis"@eng-Latn ,
         "Վարդենիս"@hye-Armn ,
         "Варденис"@rus-Cyrl ;
-    wdata:q7200235 "AM055" ;
 .
 
 <urn:mdciii:1603:16:51:2:61>
@@ -336,7 +313,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gugark"@eng-Latn ,
         "Գուգարք"@hye-Armn ,
         "Гугарк"@rus-Cyrl ;
-    wdata:q7200235 "AM061" ;
 .
 
 <urn:mdciii:1603:16:51:2:62>
@@ -348,7 +324,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tumanian"@eng-Latn ,
         "Թումանյան"@hye-Armn ,
         "Туманян"@rus-Cyrl ;
-    wdata:q7200235 "AM062" ;
 .
 
 <urn:mdciii:1603:16:51:2:63>
@@ -360,7 +335,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Spitak"@eng-Latn ,
         "Սպիտակ"@hye-Armn ,
         "Спитак"@rus-Cyrl ;
-    wdata:q7200235 "AM063" ;
 .
 
 <urn:mdciii:1603:16:51:2:64>
@@ -372,7 +346,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Stepanavan"@eng-Latn ,
         "Ստեփանավան"@hye-Armn ,
         "Степанаван"@rus-Cyrl ;
-    wdata:q7200235 "AM064" ;
 .
 
 <urn:mdciii:1603:16:51:2:65>
@@ -384,7 +357,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tashir"@eng-Latn ,
         "Տաշիր"@hye-Armn ,
         "Ташир"@rus-Cyrl ;
-    wdata:q7200235 "AM065" ;
 .
 
 <urn:mdciii:1603:16:51:2:71>
@@ -396,7 +368,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kotayk"@eng-Latn ,
         "Կոտայք"@hye-Armn ,
         "Котайк"@rus-Cyrl ;
-    wdata:q7200235 "AM071" ;
 .
 
 <urn:mdciii:1603:16:51:2:72>
@@ -408,7 +379,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Hrazdan"@eng-Latn ,
         "Հրազդան"@hye-Armn ,
         "Раздан"@rus-Cyrl ;
-    wdata:q7200235 "AM072" ;
 .
 
 <urn:mdciii:1603:16:51:2:73>
@@ -420,7 +390,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Nairi"@eng-Latn ,
         "Նաիրի"@hye-Armn ,
         "Наири"@rus-Cyrl ;
-    wdata:q7200235 "AM073" ;
 .
 
 <urn:mdciii:1603:16:51:2:81>
@@ -432,7 +401,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Akhuryan"@eng-Latn ,
         "Ախուրյան"@hye-Armn ,
         "Ахурян"@rus-Cyrl ;
-    wdata:q7200235 "AM081" ;
 .
 
 <urn:mdciii:1603:16:51:2:82>
@@ -444,7 +412,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Amasia"@eng-Latn ,
         "Ամասիա"@hye-Armn ,
         "Амасиа"@rus-Cyrl ;
-    wdata:q7200235 "AM082" ;
 .
 
 <urn:mdciii:1603:16:51:2:83>
@@ -456,7 +423,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ani"@eng-Latn ,
         "Անի"@hye-Armn ,
         "Ани"@rus-Cyrl ;
-    wdata:q7200235 "AM083" ;
 .
 
 <urn:mdciii:1603:16:51:2:84>
@@ -468,7 +434,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ashotck"@eng-Latn ,
         "Աշոցք"@hye-Armn ,
         "Ашотцк"@rus-Cyrl ;
-    wdata:q7200235 "AM084" ;
 .
 
 <urn:mdciii:1603:16:51:2:85>
@@ -480,7 +445,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Artik"@eng-Latn ,
         "Արթիկ"@hye-Armn ,
         "Артик"@rus-Cyrl ;
-    wdata:q7200235 "AM085" ;
 .
 
 <urn:mdciii:1603:16:51:2:91>
@@ -492,7 +456,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Goris"@eng-Latn ,
         "Գորիս"@hye-Armn ,
         "Горис"@rus-Cyrl ;
-    wdata:q7200235 "AM091" ;
 .
 
 <urn:mdciii:1603:16:51:2:92>
@@ -504,7 +467,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kapan"@eng-Latn ,
         "Կապան"@hye-Armn ,
         "Капан"@rus-Cyrl ;
-    wdata:q7200235 "AM092" ;
 .
 
 <urn:mdciii:1603:16:51:2:93>
@@ -516,7 +478,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Meghri"@eng-Latn ,
         "Մեղրի"@hye-Armn ,
         "Мегри"@rus-Cyrl ;
-    wdata:q7200235 "AM093" ;
 .
 
 <urn:mdciii:1603:16:51:2:94>
@@ -528,6 +489,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Sisian"@eng-Latn ,
         "Սիսիան"@hye-Armn ,
         "Сисиан"@rus-Cyrl ;
-    wdata:q7200235 "AM094" ;
 .
 

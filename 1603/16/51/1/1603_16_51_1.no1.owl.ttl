@@ -26,7 +26,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Yerevan"@eng-Latn ,
         "Երևան"@hye-Armn ,
         "Ереван"@rus-Cyrl ;
-    wdata:q7200235 "AM01" ;
+    wdata:Q7200235 "AM01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -61,7 +61,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Vayots Dzor"@eng-Latn ,
         "Վայոց Ձոր"@hye-Armn ,
         "Вайоцдзорская"@rus-Cyrl ;
-    wdata:q7200235 "AM10" ;
+    wdata:Q7200235 "AM10" ;
 .
 
 <urn:mdciii:1603:16:51:1:11>
@@ -75,7 +75,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Tavush"@eng-Latn ,
         "Տավուշ"@hye-Armn ,
         "Тавушская"@rus-Cyrl ;
-    wdata:q7200235 "AM11" ;
+    wdata:Q7200235 "AM11" ;
 .
 
 <urn:mdciii:1603:16:51:1:2>
@@ -89,7 +89,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Aragatsotn"@eng-Latn ,
         "Արագածոտն"@hye-Armn ,
         "Арагацотнская"@rus-Cyrl ;
-    wdata:q7200235 "AM02" ;
+    wdata:Q7200235 "AM02" ;
 .
 
 <urn:mdciii:1603:16:51:1:3>
@@ -103,7 +103,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Ararat"@eng-Latn ,
         "Արարատ"@hye-Armn ,
         "Араратская"@rus-Cyrl ;
-    wdata:q7200235 "AM03" ;
+    wdata:Q7200235 "AM03" ;
 .
 
 <urn:mdciii:1603:16:51:1:4>
@@ -117,7 +117,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Armavir"@eng-Latn ,
         "Արմավիր"@hye-Armn ,
         "Армавирская"@rus-Cyrl ;
-    wdata:q7200235 "AM04" ;
+    wdata:Q7200235 "AM04" ;
 .
 
 <urn:mdciii:1603:16:51:1:5>
@@ -131,7 +131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Gegharkunik"@eng-Latn ,
         "Գեղարքունիք"@hye-Armn ,
         "Гехаркуникская"@rus-Cyrl ;
-    wdata:q7200235 "AM05" ;
+    wdata:Q7200235 "AM05" ;
 .
 
 <urn:mdciii:1603:16:51:1:6>
@@ -145,7 +145,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Lori"@eng-Latn ,
         "Լոռի"@hye-Armn ,
         "Лорийская"@rus-Cyrl ;
-    wdata:q7200235 "AM06" ;
+    wdata:Q7200235 "AM06" ;
 .
 
 <urn:mdciii:1603:16:51:1:7>
@@ -159,7 +159,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Kotayk"@eng-Latn ,
         "Կոտայք"@hye-Armn ,
         "Котайкская"@rus-Cyrl ;
-    wdata:q7200235 "AM07" ;
+    wdata:Q7200235 "AM07" ;
 .
 
 <urn:mdciii:1603:16:51:1:8>
@@ -173,7 +173,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Shirak"@eng-Latn ,
         "Շիրակ"@hye-Armn ,
         "Ширакская"@rus-Cyrl ;
-    wdata:q7200235 "AM08" ;
+    wdata:Q7200235 "AM08" ;
 .
 
 <urn:mdciii:1603:16:51:1:9>
@@ -187,6 +187,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         "Syunik"@eng-Latn ,
         "Սյունիք"@hye-Armn ,
         "Сюникская"@rus-Cyrl ;
-    wdata:q7200235 "AM09" ;
+    wdata:Q7200235 "AM09" ;
 .
 
